@@ -1,4 +1,4 @@
-ul {
+nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -7,11 +7,11 @@ ul {
     font-size: 1.5rem;
 }
 
-li a {
+nav li a {
     color: white;
 }
 
-li a:hover {
+nav li a:hover {
     text-decoration: none;
     color: #c3c3c3;
 }
